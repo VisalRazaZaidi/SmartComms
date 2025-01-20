@@ -98,7 +98,7 @@ The system architecture of the Chat Application consists of several components w
 
 ## Codebase
 
-Github : [https://github.com/mayankyadav1711/MySocket.git](https://github.com/mayankyadav1711/MySocket.git)\
+Github : [https://github.com/VisalRazaZaidi/SmartComms?tab=readme-ov-file](https://github.com/VisalRazaZaidi/SmartComms?tab=readme-ov-file)\
 \
 Here are the installation commands for setting up the chat application:
 
